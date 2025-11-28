@@ -32,3 +32,13 @@ This project helped me practice:
 ---
 
 ## 📁 Project Structure
+
+```
+medical-chatbot/
+│
+├── shruthi-raghavan-medical-chatbot-2.ipynb     # Main notebook
+├── dataset.csv                                   # Simple dataset used for retrieval
+├── Certificate of DSP Completion.pdf             # Project completion certificate
+└── README.md
+```
+

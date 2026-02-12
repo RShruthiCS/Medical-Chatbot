@@ -3,9 +3,6 @@
 This repository contains a guided project where I built a simple **Medical Chatbot** using Python and machine learning. 
 The chatbot can answer basic medical-related questions by matching user input with trained intents and providing an appropriate response.
 
-> ⚠️ **Note:** This was originally a guided project, but I am currently adding my own improvements and enhancements.  
-> Updates are in progress.
-
 
 This project helped me practice:
 - Natural Language Processing (NLP)
